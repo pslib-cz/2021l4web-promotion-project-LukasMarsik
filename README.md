@@ -9,3 +9,4 @@ Bylo potřeba vytvořit příspěvky na sociální sítě a web, který bude slo
 Barvy příspěvků jsou laděni do barev etiket. Hlavní slogan, který je zobrazen na webu je - Zažijte explozi chutí s Dlabkou.
 Ukázka jednoho výstupu:
 ![Meruňkovice](/Výstupy/Apricot-grafika.jpg)
+**Webová stránka brzy**

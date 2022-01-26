@@ -1,5 +1,4 @@
-# 2021l4web-promotion-project-LukasMarsik
-2021l4web-promotion-project-LukasMarsik created by GitHub Classroom
+
 # Reklamní kampaň pro palírnu Dlabka
 ## Krátké představení společnosti a produktu
 Jedná se o Moštárnu a pěstitelskou pálenici. Na podzim 2021 získali licenci na lihovar a vyrobili tak první gin.

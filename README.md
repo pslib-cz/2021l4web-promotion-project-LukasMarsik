@@ -10,6 +10,6 @@ Na sociálních sítích propagují hlavně své produkty.
 ## Představení kampaně
 Bylo potřeba vytvořit příspěvky na sociální sítě a web, který bude sloužit jako portfolio, kde najdete jimi nabízené produkty. Na všech výstupech je jejich láhev a s ní i malý slogan.
 Barvy příspěvků jsou laděni do barev etiket. Hlavní slogan, který je zobrazen na webu je - **Zažijte explozi chutí s Dlabkou**.
+Webová stránka zde: [web]https://pslib-cz.github.io/2021l4web-promotion-project-LukasMarsik/Dlabka-web
 Ukázka jednoho výstupu:
 ![Meruňkovice](/Výstupy/Apricot-grafika.jpg)
-**Webová stránka brzy**

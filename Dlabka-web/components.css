@@ -7,7 +7,8 @@ html {
     top: 0;
     background-color: #fff;
     width: 100%;
-    box-shadow: 0 5px rgba(0, 0, 0, 0.3);
+    border-bottom: rgb(0, 0, 0) solid;
+    z-index: 1;
 }
 .nav--home {
     margin: 0;
@@ -57,7 +58,6 @@ button span {
     transition: 0.5s;
     font-size: 20px;
     margin-bottom: 1em;
-    z-index: 0;
   }
 button span:after {
     content: '\00bb';
@@ -108,6 +108,19 @@ button:hover span:after {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+footer {
+    border-top: #101010 solid;
+}
+.footer--icons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: space-between;
+}
+.footer--icons > span {
+    padding: 0.5em;
+    font-size: 30px;
 }
 @media only screen and (min-width:768px) {
     .header--mainslogan h1 {
@@ -204,19 +217,22 @@ button:hover span:after {
         margin-left: 0;
     }
     .bottle--explosion {
-        height: 790px;
-        width: 790px;
+        height: 650px;
+        width: 650px;
     }
     .div--text {
         display: flex;
         flex-direction: column;
-        margin-top: 2em;
+        margin-top: 0;
         margin-left: 3.5em;
     }
     .div--text > h2 {
-        font-size: 70px;
+        font-size: 60px;
     }
     .div--text p {
-        font-size: 40px;
+        font-size: 30px;
+    }
+    .footer--icons > span {
+        font-size: 45px;
     }
 }

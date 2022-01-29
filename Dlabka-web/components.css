@@ -80,7 +80,7 @@ button:hover span:after {
     flex-direction: column;
     padding-top: 2em;
 }
-.section--products h1 {
+.section--products h2 {
     margin-left: 0.5em;
 }
 .image--explosion {
@@ -132,7 +132,7 @@ footer {
         padding-top: 2em;
         justify-content: center;
     }
-    .section--products h1 {
+    .section--products h2 {
         margin-left: 0.5em;
     }
     .image--explosion {
@@ -167,7 +167,7 @@ footer {
         padding-top: 2em;
         justify-content: center;
     }
-    .section--products h1 {
+    .section--products h2 {
         margin-left: 0.5em;
     }
     .image--explosion {
@@ -202,7 +202,7 @@ footer {
     .header--mainslogan h1 {
         font-size: 80px;
     }
-    .section--products h1 {
+    .section--products h2 {
         margin-left: 1.5em;
         font-size: 60px;
     }
